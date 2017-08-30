@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#242424</color>
+    <color name="colorAccent">#242424</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="translate">#00000000</color>
+    <color name="theme_color">#242424</color>
+
+    <color name="dark_bg">#242424</color>
+    <color name="tab_text_color">#fe5651</color>
+    <color name="deep_gray">#2e2e2e</color>
+    <color name="white_gray">#555555</color>
+    <color name="search_gray_bg">#2e2e2e</color>
+    <color name="gray_text">#999999</color>
+    <color name="dark_red">#b72110</color>
+    <color name="light_text">#333333</color>
+    <color name="light_gray_bg">#b2b2b2</color>
+    <color name="light_bg">#b2b2b2</color>
+    <color name="light_line">#f1f1f1</color>
+    <color name="grid_line">#f2f2f2</color>
+    <color name="search_bg">#c4c4c4</color>
+    <color name="hot_search">#eff3f6</color>
+    <color name="hot_search_text">#646867</color>
+    <color name="light_yellow">#ffda5a</color>
+    <color name="hint_color">#666666</color>
+    <color name="gray_red">#ff3939</color>
+    <color name="deep_red">#af0b27</color>
+
+</resources>
